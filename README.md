@@ -17,3 +17,4 @@ https://docs.google.com/document/d/1AQow_HtiV6eBhAhVTmMMwqBgIsPAFKgKj-AE6sOm4ic/
 The application was used on vscode. 
 Uses dart language.
 An android emulator is needed. (We used Android Studio)
+
