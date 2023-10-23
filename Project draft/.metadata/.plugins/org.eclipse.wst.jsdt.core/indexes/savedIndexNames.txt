@@ -1,6 +1,0 @@
-INDEX VERSION 1.4+G:\Vanier\Block5\Cybersecurity\Project draft\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4091607715.index
-1675774648.index
-4042234027.index
-2373424623.index
-3240274092.index
