@@ -1,5 +1,5 @@
 # Cybersecurity-Project
 
 The application was used on vscode. 
-Uses dart language.
+Uses flutter, dart language.
 A android emulator is needed. 
